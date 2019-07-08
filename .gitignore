@@ -1,0 +1,5 @@
+/output
+/webinar
+*.ipynb
+*.cfg
+etl-clean.py
